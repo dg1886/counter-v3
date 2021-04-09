@@ -1,0 +1,57 @@
+/*.buttons {*/
+/*    background-color: blueviolet;*/
+/*    border-radius: 5px;*/
+/*    outline: none;*/
+/*    display: inline-block;*/
+/*}*/
+
+/*.inc {*/
+/*    background-color: blueviolet;*/
+/*    border-radius: 5px;*/
+/*    width: 50px;*/
+/*    outline: none;*/
+/*}*/
+
+/*.display {*/
+/*    background-color: #63dafc;*/
+/*    border: 5px;*/
+/*    border-color: #577c8c;*/
+/*}*/
+
+/*.error {*/
+/*    background-color: firebrick;*/
+/*    border: 5px solid;*/
+/*    border-color: red;*/
+/*}*/
+
+/*.container {*/
+
+/*    background-color: blueviolet;*/
+/*    border-radius: 5px;*/
+/*    border: 5px solid;*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: flex-start;*/
+
+/*}*/
+
+/*.block {*/
+/*    width: 100%;*/
+/*}*/
+
+/*.inner-block {*/
+/*margin: 10px 0;*/
+/*display: flex;*/
+/*    justify-content: space-between;*/
+
+/*}*/
+
+/*.inner-block input {*/
+/*    width: 50px;*/
+/*    font-size: 20px;*/
+/*    border-radius: 5px;*/
+/*}*/
+/*.inner-block span {*/
+/*    color: #577c8c;*/
+
+/*}*/
