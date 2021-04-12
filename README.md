@@ -9,3 +9,4 @@ cases the 'set' and 'increment' buttons is disabled).
 The 'counter block' allows you to increment the set
 values from the 'settings block', when the maximum value
 is reached, the 'increment' button is disabled.
+The LocalStorage is used to save the values of the inputs of the maximum and minimum values in settings blog.
